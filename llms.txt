@@ -1,0 +1,26 @@
+# Quartz Lane Mobile Car Detailing Houston
+
+> Appointment-based mobile car detailing in Friendswood, Texas.
+
+## Primary pages
+- [Homepage](https://quartzlane.shop/): Business, service, pricing, process, and contact information.
+- [Services](https://quartzlane.shop/#services): Interior, exterior, and complete vehicle detailing options.
+- [Local service information](https://quartzlane.shop/#local-detailing): How mobile detailing works in Friendswood.
+
+## Verified business facts
+- Business name: Quartz Lane Mobile Car Detailing Houston
+- Primary service area: Friendswood, Texas
+- Telephone: +1 346-595-4583
+- Service: Appointment-based mobile car detailing
+- Booking: https://cal.com/sumitdatta/auto-detail-service
+
+<!-- SEO-NEXT:START -->
+## Expanded pages
+- [Services](https://quartzlane.shop/services/)
+- [Interior Car Detailing](https://quartzlane.shop/services/interior-car-detailing/)
+- [Exterior Car Detailing](https://quartzlane.shop/services/exterior-car-detailing/)
+- [Mobile Car Wash](https://quartzlane.shop/services/mobile-car-wash/)
+- [Headlight Restoration & Polishing](https://quartzlane.shop/services/headlight-restoration/)
+- [About](https://quartzlane.shop/about/)
+- [Contact](https://quartzlane.shop/contact/)
+<!-- SEO-NEXT:END -->
